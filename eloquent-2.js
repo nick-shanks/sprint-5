@@ -1,5 +1,5 @@
-for (var line = "#"; line.length < 8; line += "#")
-console.log(line);
+for (var hash = "#"; hash.length < 8; hash += "#")
+  console.log(hash);
 
 
 
